@@ -1,0 +1,30 @@
+{
+  "config": {
+    "showbanner2": "0",
+    "activate_own_ads": "0",
+    "native_position": 2,
+
+    
+    "admob": {
+      "android": {
+        "app_id": "ca-app-pub-7796159137377981~8373286567",
+        "banner": ["ca-app-pub-7796159137377981/ANDROID_BANNER_ID"],
+        "native": ["ca-app-pub-7796159137377981/ANDROID_NATIVE_ID"],
+        "interstitial": ["ca-app-pub-7796159137377981/ANDROID_INTER_ID"],
+        "reward": ["ca-app-pub-7796159137377981/ANDROID_REWARD_ID"],
+        "open": ["ca-app-pub-9246392506501473/1286791153"]
+
+      }
+    },
+
+    "ads": [" ", " ", " "],
+    "ads_array_reward": ["applovin", "admob", "facebook"],
+    "banner_ads": [" ", " ", " "],
+    "native_ads": ["admob", "admob", "admob"],
+    "open_ads": [" ", " ", " "],
+    "test": "false",
+    "you": 1,
+
+   
+  }
+}
