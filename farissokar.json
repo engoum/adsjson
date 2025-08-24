@@ -17,7 +17,7 @@
       }
     },
 
-    "ads": [" ", " ", " "],
+    "ads": ["admob", "admob", "admob"],
     "ads_array_reward": ["applovin", "admob", "facebook"],
     "banner_ads": [" ", " ", " "],
     "native_ads": ["admob", "admob", "admob"],
@@ -29,4 +29,5 @@
   }
 
 }
+
 
