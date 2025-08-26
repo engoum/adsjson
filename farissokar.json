@@ -1,33 +1,34 @@
 {
   "config": {
-    "showbanner2": "0",
-    "activate_own_ads": "0",
+    "showbanner2": "1",
+    "activate_own_ads": "1",
     "native_position": 2,
 
     
     "admob": {
       "android": {
         "app_id": "ca-app-pub-7796159137377981~8373286567",
-        "banner": ["ca-app-pub-7796159137377981/ANDROID_BANNER_ID"],
-        "native": ["ca-app-pub-7796159137377981/ANDROID_NATIVE_ID"],
-        "interstitial": ["ca-app-pub-7796159137377981/ANDROID_INTER_ID"],
-        "reward": ["ca-app-pub-7796159137377981/ANDROID_REWARD_ID"],
-        "open": ["ca-app-pub-9246392506501473/1286791153"]
+        "banner": ["ca-app-pub-3940256099942544/9214589741"],
+        "native": ["ca-app-pub-3940256099942544/2247696110"],
+        "interstitial": ["ca-app-pub-3940256099942544/1033173712"],
+        "reward": ["ca-app-pub-3940256099942544/5224354917"],
+        "open": ["ca-app-pub-3940256099942544/9257395921"]
 
       }
     },
 
-    "ads": [" ", " ", " "],
-    "ads_array_reward": ["applovin", "admob", "facebook"],
-    "banner_ads": [" ", " ", " "],
+    "ads": ["admob", "admob", "admob"],
+    "ads_array_reward": ["admob", "admob", "admob"],
+    "banner_ads": ["admob", "admob", "admob"],
     "native_ads": ["admob", "admob", "admob"],
-    "open_ads": [" ", " ", " "],
+    "open_ads": ["admob", "admob", "admob"],
     "test": "false",
     "you": 1,
 
    
   }
 }
+
 
 
 
