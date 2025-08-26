@@ -23,11 +23,12 @@
     "native_ads": ["", "", ""],
     "open_ads": ["", "", ""],
     "test": "false",
-    "you": 1,
+    "you": 0,
 
    
   }
 }
+
 
 
 
