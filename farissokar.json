@@ -17,17 +17,18 @@
       }
     },
 
-    "ads": ["admob", "", ""],
-    "ads_array_reward": ["admob", "", ""],
-    "banner_ads": ["admob", "", ""],
-    "native_ads": ["admob", "", ""],
-    "open_ads": ["admob", "", ""],
+    "ads": ["", "", ""],
+    "ads_array_reward": ["", "", ""],
+    "banner_ads": ["", "", ""],
+    "native_ads": ["", "", ""],
+    "open_ads": ["", "", ""],
     "test": "false",
     "you": 1,
 
    
   }
 }
+
 
 
 
