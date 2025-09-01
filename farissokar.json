@@ -2,7 +2,7 @@
   "config": {
     "showbanner2": "1",
     "activate_own_ads": "0",
-    "native_position": 0,
+    "native_position": 5,
 
     
     "admob": {
@@ -28,6 +28,7 @@
    
   }
 }
+
 
 
 
